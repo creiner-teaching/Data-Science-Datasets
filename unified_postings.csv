@@ -1,0 +1,301 @@
+date,source,title,company,city,state,salary_min,salary_max,salary_mid
+2026-09-01,glassdoor,Business Intelligence Analyst,Cobalt Games,San Francisco,CA,101000,101000,101000
+2026-09-01,handshake,Junior Data Scientist,Lumen Biotech,Raleigh,NC,75000,75000,75000
+2026-09-01,linkedin,Staff ML Engineer,Starling Travel,Raleigh,NC,150000,200000,175000
+2026-09-01,linkedin,Business Intelligence Analyst,Old Mill Credit Union,San Francisco,CA,88000,120000,104000
+2026-09-01,glassdoor,Lead Data Scientist,Starling Travel,Boulder,CO,165000,218000,191500
+2026-09-01,indeed,Data Engineer,Riverstone Hospital,Seattle,WA,117000,150000,133500
+2026-09-01,linkedin,Business Analytics Intern,Bluebird Energy,Los Angeles,CA,NA,NA,NA
+2026-09-01,glassdoor,Data Engineer,Meridian Retail,Philadelphia,PA,110000,150000,130000
+2026-09-02,handshake,Junior Data Scientist,Juniper Sports,Philadelphia,PA,63000,77000,70000
+2026-09-02,indeed,Analytics Engineer,Redwood Media,Raleigh,NC,117000,117000,117000
+2026-09-02,linkedin,Financial Data Analyst,Cobalt Games,San Francisco,CA,85000,110000,97500
+2026-09-02,glassdoor,Database Administrator,Cobalt Games,Worcester,MA,98000,117000,107500
+2026-09-02,glassdoor,Financial Data Analyst,Atlas Civic Data,San Francisco,CA,94000,94000,94000
+2026-09-02,linkedin,Junior Data Scientist,Pinecrest Robotics,San Francisco,CA,143000,143000,143000
+2026-09-02,indeed,Quantitative Researcher,Redwood Media,New York,NY,220480,220480,220480
+2026-09-02,linkedin,Junior Data Scientist,Juniper Sports,Rochester,NY,NA,NA,NA
+2026-09-02,indeed,Data Engineer,Old Mill Credit Union,Raleigh,NC,NA,NA,NA
+2026-09-02,linkedin,Data Scientist,Cobalt Games,Charlotte,NC,96000,130000,113000
+2026-09-02,linkedin,Junior Data Analyst,Starling Travel,Chicago,IL,51000,70000,60500
+2026-09-02,glassdoor,Junior Data Scientist,Northwind Analytics,Remote,REMOTE,78000,95000,86500
+2026-09-02,indeed,Senior Data Engineer,Redwood Media,Worcester,MA,NA,NA,NA
+2026-09-03,indeed,Data Engineer,Brightpath Education,Rochester,NY,132000,177000,154500
+2026-09-03,indeed,Research Scientist,Tidewater Logistics,Remote,REMOTE,119000,119000,119000
+2026-09-03,linkedin,Junior Data Scientist,Bayside Health,Philadelphia,PA,86000,120000,103000
+2026-09-03,linkedin,Machine Learning Engineer,Bayside Health,Atlanta,GA,NA,NA,NA
+2026-09-03,glassdoor,Business Intelligence Analyst,Juniper Sports,Cambridge,MA,76000,106000,91000
+2026-09-03,glassdoor,Data Analyst,Starling Travel,Cambridge,MA,64000,64000,64000
+2026-09-03,indeed,Data Scientist,Northwind Analytics,San Francisco,CA,130000,130000,130000
+2026-09-03,linkedin,Senior Data Scientist,Quarry Labs,Naperville,IL,NA,NA,NA
+2026-09-03,handshake,Business Analytics Intern,Pinecrest Robotics,Dallas,TX,34320,34320,34320
+2026-09-03,indeed,Senior Data Engineer,Quarry Labs,Remote,REMOTE,158000,194000,176000
+2026-09-03,glassdoor,Staff ML Engineer,Brightpath Education,Albany,NY,241000,241000,241000
+2026-09-03,linkedin,Lead Data Scientist,Redwood Media,Chicago,IL,140000,180000,160000
+2026-09-03,handshake,Data Science Intern,Pinecrest Robotics,Spokane,WA,57200,57200,57200
+2026-09-03,handshake,Machine Learning Intern,Bluebird Energy,Remote,REMOTE,NA,NA,NA
+2026-09-04,indeed,Senior Data Scientist,Bluebird Energy,Remote,REMOTE,130000,166000,148000
+2026-09-04,indeed,Database Administrator,Riverstone Hospital,Remote,REMOTE,95000,128000,111500
+2026-09-04,indeed,Machine Learning Intern,Redwood Media,Savannah,GA,40560,46800,43680
+2026-09-04,glassdoor,Senior Data Analyst,Bayside Health,San Francisco,CA,156000,211000,183500
+2026-09-04,linkedin,Lead Data Scientist,Atlas Civic Data,Albany,NY,170000,220000,195000
+2026-09-05,glassdoor,Business Intelligence Analyst,Tidewater Logistics,Remote,REMOTE,75000,92000,83500
+2026-09-05,handshake,Machine Learning Intern,Copperline Bank,Atlanta,GA,NA,NA,NA
+2026-09-05,handshake,Data Science Intern,Tidewater Logistics,Naperville,IL,42640,42640,42640
+2026-09-05,handshake,Data Analyst Intern,Starling Travel,Remote,REMOTE,39520,39520,39520
+2026-09-05,glassdoor,Financial Data Analyst,Bayside Health,Los Angeles,CA,75000,95000,85000
+2026-09-05,indeed,Machine Learning Engineer,Redwood Media,Remote,REMOTE,126000,126000,126000
+2026-09-05,linkedin,Analytics Engineer,Copperline Bank,Remote,REMOTE,NA,NA,NA
+2026-09-05,handshake,Business Analytics Intern,Atlas Civic Data,San Diego,CA,46800,59280,53040
+2026-09-05,handshake,Data Science Intern,Brightpath Education,San Diego,CA,48880,59280,54080
+2026-09-06,indeed,Machine Learning Engineer,Pinecrest Robotics,Dallas,TX,156000,156000,156000
+2026-09-06,indeed,Staff ML Engineer,Brightpath Education,Cambridge,MA,178000,229000,203500
+2026-09-06,indeed,Senior Data Scientist,Northwind Analytics,New York,NY,167000,212000,189500
+2026-09-06,linkedin,Lead Data Scientist,Old Mill Credit Union,Cambridge,MA,150000,180000,165000
+2026-09-06,linkedin,Statistician,Atlas Civic Data,Naperville,IL,92000,92000,92000
+2026-09-06,handshake,Machine Learning Intern,Lumen Biotech,Philadelphia,PA,42640,49920,46280
+2026-09-06,indeed,Data Analyst,Copperline Bank,Rochester,NY,67000,96000,81500
+2026-09-06,linkedin,Database Administrator,Tidewater Logistics,Rochester,NY,78000,96000,87000
+2026-09-06,glassdoor,Data Engineer,Cobalt Games,Pittsburgh,PA,99000,125000,112000
+2026-09-06,linkedin,Junior Data Analyst,Brightpath Education,Denver,CO,54000,70000,62000
+2026-09-06,indeed,Data Scientist,Summit Freight,Houston,TX,114000,162000,138000
+2026-09-06,handshake,Data Analyst,Northwind Analytics,Albany,NY,92000,92000,92000
+2026-09-06,handshake,Data Science Intern,Cobalt Games,Boston,MA,49920,55120,52520
+2026-09-07,linkedin,Business Analytics Intern,Harbor Point Insurance,Naperville,IL,38000,49000,43500
+2026-09-07,handshake,Data Science Intern,Greenleaf Grocers,Houston,TX,40560,48880,44720
+2026-09-07,indeed,Director of Analytics,Brightpath Education,Worcester,MA,182000,182000,182000
+2026-09-07,linkedin,Data Analyst,Brightpath Education,Seattle,WA,NA,NA,NA
+2026-09-07,handshake,Data Engineer,Bluebird Energy,Boston,MA,105000,145000,125000
+2026-09-07,indeed,Junior Data Scientist,Cobalt Games,Chicago,IL,84240,98800,91520
+2026-09-07,indeed,Senior Data Analyst,Atlas Civic Data,Boston,MA,NA,NA,NA
+2026-09-07,linkedin,Database Administrator,Brightpath Education,Houston,TX,69000,69000,69000
+2026-09-07,linkedin,Research Scientist,Bayside Health,Remote,REMOTE,155000,155000,155000
+2026-09-07,handshake,Machine Learning Intern,Meridian Retail,Philadelphia,PA,63440,63440,63440
+2026-09-08,handshake,Data Science Intern,Redwood Media,New York,NY,59280,65520,62400
+2026-09-08,handshake,Data Science Intern,Pinecrest Robotics,Rochester,NY,46800,55120,50960
+2026-09-08,linkedin,Lead Data Scientist,Tidewater Logistics,Boston,MA,200000,250000,225000
+2026-09-08,glassdoor,Senior Data Scientist,Summit Freight,Los Angeles,CA,121000,160000,140500
+2026-09-08,glassdoor,Data Engineer,Lumen Biotech,Atlanta,GA,97000,132000,114500
+2026-09-08,handshake,Business Analytics Intern,Redwood Media,New York,NY,34320,43680,39000
+2026-09-08,indeed,Business Intelligence Analyst,Pinecrest Robotics,Naperville,IL,77000,94000,85500
+2026-09-08,indeed,Senior Data Scientist,Greenleaf Grocers,Boston,MA,NA,NA,NA
+2026-09-08,glassdoor,Senior Data Scientist,Greenleaf Grocers,New York,NY,205000,253000,229000
+2026-09-08,glassdoor,Analytics Engineer,Meridian Retail,Spokane,WA,133000,179000,156000
+2026-09-09,glassdoor,Business Intelligence Analyst,Lumen Biotech,Redmond,WA,97000,115000,106000
+2026-09-09,indeed,Data Analyst,Greenleaf Grocers,San Francisco,CA,95000,115000,105000
+2026-09-09,indeed,Database Administrator,Old Mill Credit Union,Seattle,WA,79000,111000,95000
+2026-09-09,linkedin,Financial Data Analyst,Summit Freight,Dallas,TX,64000,64000,64000
+2026-09-09,indeed,Senior Data Scientist,Bayside Health,San Francisco,CA,NA,NA,NA
+2026-09-09,indeed,Machine Learning Engineer,Meridian Retail,Pittsburgh,PA,133000,162000,147500
+2026-09-09,indeed,Data Engineer,Old Mill Credit Union,Redmond,WA,127000,180000,153500
+2026-09-10,linkedin,Lead Data Scientist,Quarry Labs,Denver,CO,NA,NA,NA
+2026-09-10,glassdoor,Junior Data Scientist,Redwood Media,Los Angeles,CA,89000,123000,106000
+2026-09-10,indeed,Statistician,Lumen Biotech,Los Angeles,CA,NA,NA,NA
+2026-09-10,indeed,Director of Analytics,Meridian Retail,Los Angeles,CA,229840,284960,257400
+2026-09-10,handshake,Junior Data Analyst,Old Mill Credit Union,Raleigh,NC,57200,57200,57200
+2026-09-10,linkedin,Data Engineer,Bayside Health,Worcester,MA,NA,NA,NA
+2026-09-10,indeed,Database Administrator,Tidewater Logistics,San Diego,CA,89000,89000,89000
+2026-09-10,glassdoor,Data Science Manager,Cobalt Games,Remote,REMOTE,153000,203000,178000
+2026-09-10,indeed,Business Analytics Intern,Juniper Sports,Houston,TX,35360,42640,39000
+2026-09-10,linkedin,Quantitative Researcher,Juniper Sports,Remote,REMOTE,168000,168000,168000
+2026-09-10,linkedin,Data Engineer,Bayside Health,Spokane,WA,100000,140000,120000
+2026-09-10,linkedin,Business Intelligence Analyst,Redwood Media,Remote,REMOTE,62000,78000,70000
+2026-09-11,handshake,Data Science Intern,Starling Travel,Cambridge,MA,49920,61360,55640
+2026-09-11,indeed,Data Engineer,Starling Travel,Savannah,GA,NA,NA,NA
+2026-09-11,glassdoor,Financial Data Analyst,Juniper Sports,San Francisco,CA,137000,179000,158000
+2026-09-11,glassdoor,Data Science Manager,Tidewater Logistics,San Francisco,CA,232000,232000,232000
+2026-09-11,linkedin,Database Administrator,Bluebird Energy,Remote,REMOTE,NA,NA,NA
+2026-09-11,indeed,Data Engineer,Starling Travel,Remote,REMOTE,104000,141000,122500
+2026-09-11,glassdoor,Analytics Engineer,Summit Freight,New York,NY,117000,158000,137500
+2026-09-11,handshake,Machine Learning Intern,Harbor Point Insurance,New York,NY,NA,NA,NA
+2026-09-12,glassdoor,Marketing Analyst,Bayside Health,Atlanta,GA,63000,82000,72500
+2026-09-12,linkedin,Junior Data Analyst,Copperline Bank,Seattle,WA,101000,101000,101000
+2026-09-12,glassdoor,Machine Learning Engineer,Greenleaf Grocers,Worcester,MA,133000,177000,155000
+2026-09-12,glassdoor,Senior Data Scientist,Brightpath Education,Remote,REMOTE,176000,176000,176000
+2026-09-12,indeed,Business Intelligence Analyst,Pinecrest Robotics,Durham,NC,63000,76000,69500
+2026-09-12,indeed,Data Science Manager,Summit Freight,Boston,MA,148000,194000,171000
+2026-09-12,glassdoor,Senior Data Analyst,Brightpath Education,Chicago,IL,77000,97000,87000
+2026-09-12,handshake,Data Science Intern,Old Mill Credit Union,Los Angeles,CA,NA,NA,NA
+2026-09-12,handshake,Data Science Intern,Harbor Point Insurance,Atlanta,GA,54080,54080,54080
+2026-09-13,indeed,Junior Data Scientist,Redwood Media,Chicago,IL,90000,90000,90000
+2026-09-13,handshake,Business Analytics Intern,Tidewater Logistics,Houston,TX,NA,NA,NA
+2026-09-13,handshake,Business Analytics Intern,Summit Freight,Remote,REMOTE,42640,42640,42640
+2026-09-14,handshake,Data Science Intern,Harbor Point Insurance,Boulder,CO,49920,56160,53040
+2026-09-14,glassdoor,Senior Data Analyst,Copperline Bank,Charlotte,NC,79000,104000,91500
+2026-09-14,glassdoor,Senior Data Scientist,Old Mill Credit Union,Albany,NY,166000,220000,193000
+2026-09-14,glassdoor,Machine Learning Engineer,Copperline Bank,Austin,TX,110000,136000,123000
+2026-09-14,glassdoor,Senior Data Engineer,Lumen Biotech,Houston,TX,207000,265000,236000
+2026-09-14,glassdoor,Senior Data Engineer,Summit Freight,Boulder,CO,178000,178000,178000
+2026-09-14,glassdoor,Analytics Engineer,Cobalt Games,New York,NY,109000,149000,129000
+2026-09-14,linkedin,Analytics Engineer,Greenleaf Grocers,Albany,NY,130000,160000,145000
+2026-09-14,glassdoor,Machine Learning Engineer,Brightpath Education,Chicago,IL,133000,162000,147500
+2026-09-14,indeed,Senior Data Analyst,Redwood Media,Cambridge,MA,119000,144000,131500
+2026-09-15,linkedin,Data Science Manager,Cobalt Games,New York,NY,NA,NA,NA
+2026-09-15,linkedin,Data Science Intern,Summit Freight,Savannah,GA,NA,NA,NA
+2026-09-15,indeed,Junior Data Scientist,Tidewater Logistics,Seattle,WA,87000,113000,100000
+2026-09-15,indeed,Financial Data Analyst,Summit Freight,Cambridge,MA,72000,97000,84500
+2026-09-15,indeed,Data Scientist,Brightpath Education,San Francisco,CA,124000,161000,142500
+2026-09-15,indeed,Lead Data Scientist,Bayside Health,Austin,TX,NA,NA,NA
+2026-09-15,glassdoor,Data Engineer,Bluebird Energy,Albany,NY,113000,139000,126000
+2026-09-15,linkedin,Junior Data Scientist,Tidewater Logistics,Remote,REMOTE,110000,150000,130000
+2026-09-15,glassdoor,Analytics Engineer,Harbor Point Insurance,Remote,REMOTE,93000,130000,111500
+2026-09-15,glassdoor,Junior Data Scientist,Northwind Analytics,Remote,REMOTE,74000,106000,90000
+2026-09-15,indeed,Quantitative Researcher,Greenleaf Grocers,Spokane,WA,259000,314000,286500
+2026-09-15,indeed,Data Engineer,Cobalt Games,Boston,MA,134000,159000,146500
+2026-09-16,indeed,Director of Analytics,Greenleaf Grocers,Albany,NY,216000,290000,253000
+2026-09-16,linkedin,Statistician,Bluebird Energy,Charlotte,NC,NA,NA,NA
+2026-09-16,indeed,Junior Data Analyst,Pinecrest Robotics,New York,NY,64480,71760,68120
+2026-09-16,glassdoor,Data Engineer,Lumen Biotech,Pittsburgh,PA,92000,119000,105500
+2026-09-16,glassdoor,Data Engineer,Copperline Bank,Savannah,GA,93000,112000,102500
+2026-09-16,linkedin,Business Intelligence Analyst,Lumen Biotech,Atlanta,GA,90000,90000,90000
+2026-09-16,indeed,Data Science Manager,Starling Travel,Remote,REMOTE,123000,169000,146000
+2026-09-16,glassdoor,Database Administrator,Riverstone Hospital,San Diego,CA,169000,224000,196500
+2026-09-16,indeed,Data Science Intern,Atlas Civic Data,Cambridge,MA,NA,NA,NA
+2026-09-16,glassdoor,Data Engineer,Cobalt Games,Charlotte,NC,100000,140000,120000
+2026-09-17,indeed,Senior Data Engineer,Juniper Sports,Austin,TX,NA,NA,NA
+2026-09-17,glassdoor,Junior Data Analyst,Redwood Media,Boston,MA,61000,81000,71000
+2026-09-17,indeed,Data Science Manager,Pinecrest Robotics,Chicago,IL,NA,NA,NA
+2026-09-17,indeed,Junior Data Scientist,Juniper Sports,Rochester,NY,NA,NA,NA
+2026-09-17,linkedin,Statistician,Cobalt Games,San Francisco,CA,96000,120000,108000
+2026-09-17,linkedin,Data Engineer,Old Mill Credit Union,Cambridge,MA,NA,NA,NA
+2026-09-17,indeed,Lead Data Scientist,Redwood Media,Remote,REMOTE,173000,173000,173000
+2026-09-17,linkedin,Quantitative Researcher,Northwind Analytics,Durham,NC,NA,NA,NA
+2026-09-17,glassdoor,Data Science Manager,Harbor Point Insurance,Seattle,WA,159000,226000,192500
+2026-09-17,glassdoor,Data Engineer,Meridian Retail,Dallas,TX,111000,138000,124500
+2026-09-17,linkedin,Data Engineer,Old Mill Credit Union,Cambridge,MA,131000,131000,131000
+2026-09-18,linkedin,Database Administrator,Cobalt Games,Naperville,IL,65000,77000,71000
+2026-09-18,indeed,Data Analyst Intern,Tidewater Logistics,Chicago,IL,NA,NA,NA
+2026-09-18,linkedin,Analytics Engineer,Brightpath Education,Boulder,CO,120000,150000,135000
+2026-09-18,linkedin,Staff ML Engineer,Juniper Sports,Seattle,WA,NA,NA,NA
+2026-09-18,glassdoor,Financial Data Analyst,Cobalt Games,Remote,REMOTE,83000,83000,83000
+2026-09-18,linkedin,Business Intelligence Analyst,Juniper Sports,Pittsburgh,PA,67000,84000,75500
+2026-09-18,handshake,Data Science Intern,Bluebird Energy,Spokane,WA,48880,48880,48880
+2026-09-18,linkedin,Data Science Manager,Lumen Biotech,Rochester,NY,NA,NA,NA
+2026-09-18,linkedin,Marketing Analyst,Redwood Media,Denver,CO,NA,NA,NA
+2026-09-18,glassdoor,Junior Data Analyst,Quarry Labs,Boulder,CO,55000,55000,55000
+2026-09-18,linkedin,Quantitative Researcher,Lumen Biotech,Cambridge,MA,NA,NA,NA
+2026-09-18,indeed,Junior Data Scientist,Pinecrest Robotics,Dallas,TX,76000,99000,87500
+2026-09-19,glassdoor,Director of Analytics,Redwood Media,San Diego,CA,277000,277000,277000
+2026-09-19,indeed,Database Administrator,Tidewater Logistics,Albany,NY,91000,111000,101000
+2026-09-19,indeed,Senior Data Analyst,Bluebird Energy,Redmond,WA,93000,131000,112000
+2026-09-19,indeed,Statistician,Harbor Point Insurance,Rochester,NY,122000,122000,122000
+2026-09-19,linkedin,Data Engineer,Tidewater Logistics,San Diego,CA,120000,150000,135000
+2026-09-19,handshake,Marketing Analyst,Riverstone Hospital,Albany,NY,87000,87000,87000
+2026-09-19,handshake,Data Science Intern,Bayside Health,Remote,REMOTE,NA,NA,NA
+2026-09-19,indeed,Business Intelligence Analyst,Juniper Sports,Dallas,TX,73000,92000,82500
+2026-09-19,handshake,Data Analyst Intern,Lumen Biotech,New York,NY,50960,59280,55120
+2026-09-19,linkedin,Director of Analytics,Cobalt Games,Boston,MA,NA,NA,NA
+2026-09-19,glassdoor,Data Analyst,Quarry Labs,Naperville,IL,76000,76000,76000
+2026-09-20,handshake,Marketing Analyst,Harbor Point Insurance,Spokane,WA,72000,87000,79500
+2026-09-20,indeed,Junior Data Scientist,Bluebird Energy,Seattle,WA,87360,97760,92560
+2026-09-20,indeed,Senior Data Analyst,Redwood Media,San Francisco,CA,142000,142000,142000
+2026-09-20,handshake,Data Analyst Intern,Starling Travel,Rochester,NY,53040,53040,53040
+2026-09-20,indeed,Data Engineer,Tidewater Logistics,Remote,REMOTE,124000,171000,147500
+2026-09-20,indeed,Business Intelligence Analyst,Cobalt Games,Remote,REMOTE,59000,74000,66500
+2026-09-20,linkedin,Senior Data Scientist,Bluebird Energy,Seattle,WA,NA,NA,NA
+2026-09-20,handshake,Machine Learning Intern,Juniper Sports,San Diego,CA,54080,61360,57720
+2026-09-20,linkedin,Data Analyst,Juniper Sports,Redmond,WA,77000,100000,88500
+2026-09-20,linkedin,Staff ML Engineer,Atlas Civic Data,Naperville,IL,NA,NA,NA
+2026-09-21,glassdoor,Marketing Analyst,Tidewater Logistics,San Diego,CA,63000,79000,71000
+2026-09-21,indeed,Senior Data Engineer,Bluebird Energy,Redmond,WA,153000,213000,183000
+2026-09-21,linkedin,Data Engineer,Tidewater Logistics,Dallas,TX,113000,113000,113000
+2026-09-21,indeed,Analytics Engineer,Summit Freight,Raleigh,NC,85000,122000,103500
+2026-09-21,handshake,Business Analytics Intern,Riverstone Hospital,Remote,REMOTE,47840,47840,47840
+2026-09-21,indeed,Financial Data Analyst,Old Mill Credit Union,Remote,REMOTE,81000,100000,90500
+2026-09-21,indeed,Director of Analytics,Greenleaf Grocers,Atlanta,GA,212000,212000,212000
+2026-09-21,indeed,Lead Data Scientist,Starling Travel,Redmond,WA,148000,174000,161000
+2026-09-21,glassdoor,Director of Analytics,Bayside Health,Philadelphia,PA,188000,269000,228500
+2026-09-21,handshake,Data Analyst Intern,Brightpath Education,Albany,NY,NA,NA,NA
+2026-09-21,handshake,Data Analyst Intern,Bayside Health,Austin,TX,43680,43680,43680
+2026-09-22,glassdoor,Data Scientist,Harbor Point Insurance,Redmond,WA,109000,148000,128500
+2026-09-22,linkedin,Machine Learning Engineer,Tidewater Logistics,Seattle,WA,180000,230000,205000
+2026-09-22,indeed,Staff ML Engineer,Meridian Retail,Rochester,NY,213000,213000,213000
+2026-09-22,indeed,Research Scientist,Quarry Labs,Remote,REMOTE,123000,155000,139000
+2026-09-22,linkedin,Marketing Analyst,Greenleaf Grocers,Atlanta,GA,61000,72000,66500
+2026-09-22,handshake,Machine Learning Intern,Lumen Biotech,Boulder,CO,52000,61360,56680
+2026-09-22,glassdoor,Data Engineer,Harbor Point Insurance,Remote,REMOTE,121000,172000,146500
+2026-09-22,glassdoor,Data Engineer,Bluebird Energy,Seattle,WA,114000,154000,134000
+2026-09-22,linkedin,Analytics Engineer,Bluebird Energy,San Diego,CA,130000,170000,150000
+2026-09-22,glassdoor,Director of Analytics,Harbor Point Insurance,Savannah,GA,187000,224000,205500
+2026-09-22,linkedin,Data Scientist,Tidewater Logistics,Denver,CO,96000,120000,108000
+2026-09-22,handshake,Data Engineer,Harbor Point Insurance,Dallas,TX,117000,117000,117000
+2026-09-22,indeed,Machine Learning Intern,Copperline Bank,Cambridge,MA,56160,68640,62400
+2026-09-22,linkedin,Data Engineer,Brightpath Education,Remote,REMOTE,100000,120000,110000
+2026-09-23,glassdoor,Senior Data Analyst,Bayside Health,New York,NY,105000,144000,124500
+2026-09-23,linkedin,Senior Data Analyst,Meridian Retail,Austin,TX,97000,97000,97000
+2026-09-23,indeed,Financial Data Analyst,Summit Freight,Albany,NY,89000,111000,100000
+2026-09-23,handshake,Data Science Intern,Starling Travel,Seattle,WA,54080,54080,54080
+2026-09-23,glassdoor,Machine Learning Engineer,Cobalt Games,Chicago,IL,128000,128000,128000
+2026-09-23,linkedin,Statistician,Greenleaf Grocers,Boston,MA,80000,96000,88000
+2026-09-23,glassdoor,Junior Data Analyst,Tidewater Logistics,Remote,REMOTE,68000,68000,68000
+2026-09-23,glassdoor,Data Engineer,Old Mill Credit Union,Atlanta,GA,99000,121000,110000
+2026-09-23,linkedin,Machine Learning Engineer,Lumen Biotech,Houston,TX,110000,140000,125000
+2026-09-23,handshake,Data Science Intern,Copperline Bank,Austin,TX,50960,50960,50960
+2026-09-24,glassdoor,Business Intelligence Analyst,Pinecrest Robotics,Naperville,IL,79000,79000,79000
+2026-09-24,glassdoor,Research Scientist,Bluebird Energy,Durham,NC,119000,168000,143500
+2026-09-24,linkedin,Senior Data Engineer,Summit Freight,Boulder,CO,NA,NA,NA
+2026-09-24,linkedin,Director of Analytics,Cobalt Games,Houston,TX,NA,NA,NA
+2026-09-24,indeed,Analytics Engineer,Cobalt Games,Remote,REMOTE,97000,128000,112500
+2026-09-25,glassdoor,Statistician,Atlas Civic Data,Houston,TX,78000,105000,91500
+2026-09-25,indeed,Analytics Engineer,Northwind Analytics,Los Angeles,CA,131000,165000,148000
+2026-09-25,glassdoor,Data Scientist,Starling Travel,Spokane,WA,153000,201000,177000
+2026-09-25,glassdoor,Research Scientist,Brightpath Education,Boston,MA,140000,184000,162000
+2026-09-25,indeed,Senior Data Scientist,Juniper Sports,Spokane,WA,154000,154000,154000
+2026-09-25,handshake,Data Analyst Intern,Pinecrest Robotics,Pittsburgh,PA,40560,40560,40560
+2026-09-25,glassdoor,Marketing Analyst,Bayside Health,Remote,REMOTE,71000,71000,71000
+2026-09-25,handshake,Junior Data Analyst,Juniper Sports,Remote,REMOTE,61000,84000,72500
+2026-09-25,indeed,Machine Learning Engineer,Copperline Bank,Naperville,IL,115000,152000,133500
+2026-09-26,linkedin,Quantitative Researcher,Cobalt Games,Rochester,NY,204000,204000,204000
+2026-09-26,indeed,Machine Learning Engineer,Quarry Labs,Houston,TX,110000,135000,122500
+2026-09-26,handshake,Data Science Intern,Northwind Analytics,Rochester,NY,58240,68640,63440
+2026-09-26,glassdoor,Staff ML Engineer,Starling Travel,Seattle,WA,238000,306000,272000
+2026-09-26,linkedin,Data Analyst,Juniper Sports,Austin,TX,NA,NA,NA
+2026-09-26,handshake,Machine Learning Intern,Harbor Point Insurance,Boulder,CO,53040,53040,53040
+2026-09-26,glassdoor,Financial Data Analyst,Starling Travel,Spokane,WA,84000,102000,93000
+2026-09-26,linkedin,Business Intelligence Analyst,Starling Travel,Remote,REMOTE,52000,61000,56500
+2026-09-26,indeed,Lead Data Scientist,Harbor Point Insurance,Dallas,TX,NA,NA,NA
+2026-09-26,glassdoor,Database Administrator,Quarry Labs,Denver,CO,72000,97000,84500
+2026-09-27,linkedin,Machine Learning Engineer,Northwind Analytics,Savannah,GA,120000,160000,140000
+2026-09-27,linkedin,Machine Learning Intern,Starling Travel,Redmond,WA,NA,NA,NA
+2026-09-27,handshake,Marketing Analyst,Old Mill Credit Union,Naperville,IL,73000,91000,82000
+2026-09-27,indeed,Data Scientist,Bayside Health,Chicago,IL,NA,NA,NA
+2026-09-27,indeed,Junior Data Scientist,Atlas Civic Data,Los Angeles,CA,117000,166000,141500
+2026-09-27,handshake,Business Analytics Intern,Bluebird Energy,Houston,TX,47840,59280,53560
+2026-09-27,indeed,Senior Data Engineer,Riverstone Hospital,Remote,REMOTE,135000,173000,154000
+2026-09-27,linkedin,Quantitative Researcher,Bluebird Energy,Los Angeles,CA,NA,NA,NA
+2026-09-27,glassdoor,Staff ML Engineer,Meridian Retail,New York,NY,289000,289000,289000
+2026-09-27,linkedin,Business Analytics Intern,Harbor Point Insurance,Rochester,NY,41000,59000,50000
+2026-09-28,glassdoor,Machine Learning Engineer,Quarry Labs,Dallas,TX,125000,177000,151000
+2026-09-28,indeed,Senior Data Analyst,Tidewater Logistics,Houston,TX,79000,103000,91000
+2026-09-28,glassdoor,Senior Data Engineer,Greenleaf Grocers,Remote,REMOTE,141000,182000,161500
+2026-09-28,linkedin,Senior Data Analyst,Old Mill Credit Union,Naperville,IL,NA,NA,NA
+2026-09-28,linkedin,Marketing Analyst,Copperline Bank,Savannah,GA,NA,NA,NA
+2026-09-28,handshake,Business Analytics Intern,Atlas Civic Data,Remote,REMOTE,53040,53040,53040
+2026-09-28,handshake,Business Analytics Intern,Cobalt Games,Spokane,WA,46800,46800,46800
+2026-09-28,glassdoor,Senior Data Scientist,Cobalt Games,New York,NY,144000,175000,159500
+2026-09-28,linkedin,Marketing Analyst,Pinecrest Robotics,Remote,REMOTE,NA,NA,NA
+2026-09-28,glassdoor,Machine Learning Intern,Copperline Bank,Atlanta,GA,42000,58000,50000
+2026-09-28,handshake,Data Science Intern,Brightpath Education,Spokane,WA,59280,66560,62920
+2026-09-29,indeed,Analytics Engineer,Cobalt Games,Boulder,CO,110000,133000,121500
+2026-09-29,glassdoor,Junior Data Analyst,Juniper Sports,Boulder,CO,70000,88000,79000
+2026-09-29,indeed,Director of Analytics,Greenleaf Grocers,Houston,TX,NA,NA,NA
+2026-09-29,glassdoor,Senior Data Analyst,Riverstone Hospital,Albany,NY,98000,129000,113500
+2026-09-29,linkedin,Data Analyst Intern,Northwind Analytics,Chicago,IL,51000,62000,56500
+2026-09-29,indeed,Senior Data Analyst,Cobalt Games,San Francisco,CA,100000,128000,114000
+2026-09-29,indeed,Financial Data Analyst,Brightpath Education,Spokane,WA,71000,83000,77000
+2026-09-29,glassdoor,Statistician,Starling Travel,San Diego,CA,120000,149000,134500
+2026-09-29,indeed,Machine Learning Engineer,Pinecrest Robotics,San Francisco,CA,144000,178000,161000
+2026-09-30,glassdoor,Data Engineer,Atlas Civic Data,Dallas,TX,108000,144000,126000
+2026-09-30,linkedin,Junior Data Scientist,Tidewater Logistics,Spokane,WA,NA,NA,NA
+2026-09-30,handshake,Data Analyst Intern,Lumen Biotech,Remote,REMOTE,43680,53040,48360
+2026-09-30,glassdoor,Database Administrator,Atlas Civic Data,Remote,REMOTE,78000,78000,78000
+2026-09-30,handshake,Data Science Intern,Riverstone Hospital,Boulder,CO,NA,NA,NA
+2026-09-30,indeed,Data Analyst Intern,Quarry Labs,Philadelphia,PA,37440,44720,41080
+2026-09-30,glassdoor,Staff ML Engineer,Bayside Health,Albany,NY,233000,294000,263500
+2026-09-30,glassdoor,Staff ML Engineer,Lumen Biotech,Boulder,CO,161000,198000,179500
+2026-09-30,indeed,Analytics Engineer,Riverstone Hospital,San Diego,CA,128000,175000,151500
+2026-09-30,glassdoor,Lead Data Scientist,Harbor Point Insurance,Pittsburgh,PA,171000,171000,171000
+2026-09-30,glassdoor,Data Scientist,Harbor Point Insurance,Savannah,GA,100000,123000,111500
+2026-09-30,glassdoor,Quantitative Researcher,Northwind Analytics,Redmond,WA,200000,200000,200000
+2026-09-30,handshake,Business Analytics Intern,Atlas Civic Data,Cambridge,MA,40560,40560,40560
+2026-09-30,glassdoor,Data Analyst,Quarry Labs,Dallas,TX,76000,76000,76000
